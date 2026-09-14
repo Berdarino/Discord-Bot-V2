@@ -22,6 +22,11 @@
   </p>
 </div>
 
+> [!NOTE]
+> **This project has been superseded by [BokBokGeh Discord Bot V3](https://github.com/Berdarino/Discord-Bot-V3).**
+> V3 is a ground-up rewrite on Pycord 2.8 and Python 3.14 — a local Ollama model
+> in place of Langchain, KLIPY in place of Tenor, and a MyAnimeList fallback for
+> AniList. This repository is archived and kept for reference.
 
 <details>
   <summary>Table of Contents</summary>
